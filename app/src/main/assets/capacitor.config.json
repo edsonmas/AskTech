@@ -1,0 +1,6 @@
+{
+	"appId": "com.asktech.dev",
+	"appName": "ask-tech",
+	"webDir": "dist/ask-tech",
+	"bundledWebRuntime": false
+}
